@@ -1,6 +1,7 @@
 # Dreamorphine
-A growing collection of album covers. Powered by GitHub and Grunt. 
-http://dreamorphine.am0200.com
+A growing collection of Key Sounds Label album covers. Powered by GitHub and Grunt. Forked from [LoeiFy](https://github.com/LoeiFy/Dreamorphine)
+
+Website: http://goodbest.github.io/KSLWall/
 
 ### License
 - MIT
